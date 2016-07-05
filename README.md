@@ -22,4 +22,4 @@ Start Bootstrap was created by and is maintained by **Amine Karismatik**
 
 ## Copyright and License
 
-Copyright 2016 Amine Karismatik, Code released under the [Apache 2.0](https://github.com/AmineKarismatik/EasyNotif/LICENSE) license.
+Copyright 2016 Amine Karismatik, Code released under the [Apache 2.0](https://github.com/AmineKarismatik/EasyNotif/blob/master/Licence) license.
