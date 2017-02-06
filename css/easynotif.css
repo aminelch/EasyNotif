@@ -1,9 +1,29 @@
+
+
 body {
+	  padding-top: 70px;
+  padding-bottom: 30px;
+
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 	color: #34495e;
 	-webkit-font-smoothing: antialiased;
 	line-height: 1.6em;
-	background-color: #A2D2EB;
+	/*background-color: #A2D2EB;*/
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+
+.theme-showcase .navbar .container {
+  width: auto;
 }
 
 p {

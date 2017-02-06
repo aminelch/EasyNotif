@@ -6,6 +6,7 @@
  * Project repository: https://github.com/AmineKarismatik/EasyNotif
  * Dual licensed under the Apache License.
  */
+ 
 (function($){
 
 	$.fn.easynotif=function(options){
